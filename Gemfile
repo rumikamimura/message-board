@@ -11,6 +11,10 @@ gem 'sqlite3', group: :development
 gem 'pg', group: :production
 ##9.3ここまで
 
+##10. pryのインストール
+gem 'pry-byebug', group: :development
+##10. ここまで
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
